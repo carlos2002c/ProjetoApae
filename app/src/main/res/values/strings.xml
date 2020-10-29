@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ProjetoApae</string>
+    <string name="fases_do_jogo">FASES DO JOGO</string>
+    <string name="image">image</string>
+    <string name="na_padaria_tem" tools:ignore="DuplicateDefinition,TypographyEllipsis">NA PADARIA TEM...</string>
+    <string name="uma_ave_a" tools:ignore="DuplicateDefinition,TypographyEllipsis">É UMA AVE A...</string>
+    <string name="uma_ave_o" tools:ignore="TypographyEllipsis">É UMA AVE O...</string>
+    <string name="na_cozinha_tem" tools:ignore="DuplicateDefinition,TypographyEllipsis">NA COZINHA TEM...</string>
+    <string name="um_brinquedo_a" tools:ignore="TypographyEllipsis">É UM BRINQUEDO A...</string>
+    <string name="um_brinquedo_o" tools:ignore="DuplicateDefinition,TypographyEllipsis">É UM BRINQUEDO O...</string>
+    <string name="uma_fruta_a" tools:ignore="DuplicateDefinition,TypographyEllipsis">É UMA FRUTA A...</string>
+    <string name="na_festa_tem" tools:ignore="DuplicateDefinition,TypographyEllipsis">NA FESTA TEM...</string>
+    <string name="na_escola_tem" tools:ignore="DuplicateDefinition,TypographyEllipsis">NA ESCOLA TEM...</string>
+    <string name="na_horta_tem" tools:ignore="TypographyEllipsis">NA HORTA TEM...</string>
+    <string name="um_animal_dom_stico_o" tools:ignore="DuplicateDefinition,TypographyEllipsis">É UM ANIMAL DOMÉSTICO O...</string>
+    <string name="um_animal_selvagem_o" tools:ignore="DuplicateDefinition,TypographyEllipsis">É UM ANIMAL SELVAGEM O...</string>
+    <string name="uma_roupa_a" tools:ignore="DuplicateDefinition,TypographyEllipsis">É UMA ROUPA A...</string>
+    <string name="um_transporte_o" tools:ignore="DuplicateDefinition,TypographyEllipsis">É UM TRANSPORTE O...</string>
+
+</resources>
